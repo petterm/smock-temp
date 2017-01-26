@@ -1,0 +1,27 @@
+{
+  "name": "ferengi-mock",
+  "version": "1.0.0",
+  "description": "A mockup of RG java service ferengi",
+  "engines": {
+    "node": "^6.9.0"
+  },
+  "entry": "index.js",
+  "scripts": {
+    "lint": "eslint src/**/*.js && echo src is lint-free!",
+    "precommit": "npm run lint"
+  },
+  "author": "petter",
+  "dependencies": {
+    "GitRepo": "git+https://github.com/petterm/smock.git"
+  },
+  "devDependencies": {
+    "eslint": "^3.14.0",
+    "eslint-config-defaults": "^9.0.0",
+    "eslint-config-google": "^0.7.1",
+    "eslint-config-standard": "^6.2.1",
+    "eslint-plugin-promise": "^3.4.0",
+    "eslint-plugin-standard": "^2.0.1",
+    "husky": "^0.13.1",
+    "nodemon": "^1.11.0"
+  }
+}
