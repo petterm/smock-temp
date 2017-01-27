@@ -9,3 +9,6 @@ node_modules
 # MacOS
 ._*
 .DS_Store
+
+# Docker
+.dockerignore
