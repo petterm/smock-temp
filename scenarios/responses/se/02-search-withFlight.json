@@ -1,0 +1,15 @@
+{
+    "Companies": [
+        {
+            "Combinations": 4,
+            "CompanyId": 7638,
+            "Meta": {
+                "LogoExtension": "jpg",
+                "LogoPath": "/files/9/rg_4870809",
+                "Name": "TripX Travel"
+            }
+        }
+    ],
+    "IsDone": false,
+    "uuid": "uuid-FIT-se-withFlight"
+}

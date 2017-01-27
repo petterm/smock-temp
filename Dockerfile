@@ -1,0 +1,4 @@
+FROM node:7.4-onbuild
+
+ENV PORT 8080
+EXPOSE 8080

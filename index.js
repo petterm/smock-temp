@@ -9,7 +9,7 @@ const port = process.env.PORT || 9090;
 const app = express();
 
 app.use(compression());
-app.use('/smock', smock);
+app.use('/ferengi', smock);
 
 process.env.SMOCK_PATH = path.join(__dirname, 'scenarios');
 
