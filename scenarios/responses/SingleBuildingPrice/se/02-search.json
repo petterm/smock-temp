@@ -1,0 +1,56 @@
+{
+    "Companies": [
+        {
+            "CompanyId": 6080,
+            "Lodgings": -1,
+            "Meta": {
+                "LogoExtension": "jpg",
+                "LogoPath": "/files/15/rg_1537115",
+                "Name": "HotelSpecials.se"
+            }
+        },
+        {
+            "CompanyId": 1153,
+            "Lodgings": 1,
+            "Meta": {
+                "LogoExtension": "png",
+                "LogoPath": "/files/83/rg_2871983",
+                "Name": "Sembo"
+            }
+        },
+        {
+            "CompanyId": 2742,
+            "Lodgings": 6,
+            "Meta": {
+                "LogoExtension": "gif",
+                "LogoPath": "/files/34/rg_1740934",
+                "Name": "Booking.com"
+            }
+        },
+        {
+            "CompanyId": 2390,
+            "Lodgings": 1,
+            "Meta": {
+                "LogoExtension": "jpg",
+                "LogoPath": "/files/39/rg_1778639",
+                "Name": "Hotels.com"
+            }
+        },
+        {
+            "CompanyId": 7823,
+            "Lodgings": 2,
+            "Meta": {
+                "LogoExtension": "jpg",
+                "LogoPath": "/files/46/rg_2767446",
+                "Name": "AMOMA.com"
+            }
+        }
+    ],
+    "Extra": {
+        "Prices": {
+            "81933": 962
+        }
+    },
+    "IsDone": false,
+    "uuid": "uuidSingleBuildingPricese"
+}

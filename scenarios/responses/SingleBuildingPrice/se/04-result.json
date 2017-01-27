@@ -1,0 +1,270 @@
+{
+    "Response": {
+        "Prices": [
+            {
+                "AcqLodgingId": 8869470,
+                "BookingUri": "https://www.amoma.com/hotel.php?key=2016122020161221210500001050000005000011111320&id=594&referer=06658rsaHty5C_se&curid=SEK&langid=11&px=87&pp=LSEtRW5hKzdxbTNnUHlNb3RLcDc3b0Q2N3NzZXFOZldmUVk1dWVtZ29RSW1QTG9oMzNPVWRDRUZ3PT0=&rdesc=LSEtcVVMMm1xcWkraGZVa3RTSC9rNFp5d2tUS2tsSWdpWVEzT21oRFJZMWkzQT0=",
+                "BuildingId": 81933,
+                "CompanyId": 7823,
+                "CurrencyCode": "SEK",
+                "DirectSale": false,
+                "Rooms": [
+                    {
+                        "Amount": 2,
+                        "HashCode": -605267283,
+                        "MaxOccupancy": 1,
+                        "RoomType": "Enkelrum standard"
+                    }
+                ],
+                "TotalPrice": 1786
+            },
+            {
+                "AcqLodgingId": 4520205,
+                "BookingUri": "http://www.booking.com/hotel/fr/antin-trinite.html?aid=305228&checkin=2016-12-20&checkout=2016-12-21&lang=sv&selected_currency=SEK",
+                "BuildingId": 81933,
+                "CompanyId": 2742,
+                "CurrencyCode": "SEK",
+                "DirectSale": false,
+                "OriginalCurrencyCode": "EUR",
+                "OriginalTotalPrice": 99.0,
+                "OriginalTotalPriceWithoutDiscount": 99.0,
+                "PaymentOption": "CreditCard",
+                "Rooms": [
+                    {
+                        "Amount": 1,
+                        "BookingCurrency": "EUR",
+                        "BookingPrice": 99.0,
+                        "DepositRequired": true,
+                        "ExtIdentifier": "25664601_94368690_0_2",
+                        "ExtLodgingUnitId": "25664601",
+                        "HashCode": 1856353578,
+                        "LocalizedBookingPrice": 962,
+                        "MaxOccupancy": 2,
+                        "Refundable": false,
+                        "RoomType": "Rum Standard Plus",
+                        "RoomsAvailable": 2
+                    }
+                ],
+                "TotalPrice": 962,
+                "TotalPriceWithoutDiscount": 962
+            },
+            {
+                "AcqLodgingId": 4520205,
+                "BookingUri": "http://www.booking.com/hotel/fr/antin-trinite.html?aid=305228&checkin=2016-12-20&checkout=2016-12-21&lang=sv&selected_currency=SEK",
+                "BuildingId": 81933,
+                "CompanyId": 2742,
+                "CurrencyCode": "SEK",
+                "DirectSale": false,
+                "OriginalCurrencyCode": "EUR",
+                "OriginalTotalPrice": 134.0,
+                "OriginalTotalPriceWithoutDiscount": 134.0,
+                "PaymentOption": "CreditCard",
+                "Rooms": [
+                    {
+                        "Amount": 1,
+                        "BookingCurrency": "EUR",
+                        "BookingPrice": 134.0,
+                        "DepositRequired": true,
+                        "ExtIdentifier": "25664602_94368690_0_1",
+                        "ExtLodgingUnitId": "25664602",
+                        "HashCode": -1686706143,
+                        "LocalizedBookingPrice": 1302,
+                        "MaxOccupancy": 2,
+                        "Meal": {
+                            "Name": "Frukost"
+                        },
+                        "Refundable": false,
+                        "RoomType": "Rum Superior",
+                        "RoomsAvailable": 2
+                    }
+                ],
+                "TotalPrice": 1302,
+                "TotalPriceWithoutDiscount": 1302
+            },
+            {
+                "AcqLodgingId": 8869470,
+                "BookingUri": "https://www.amoma.com/hotel.php?key=2016122020161221120500000050000005000011111320&id=594&referer=06658rsaHty5C_se&curid=SEK&langid=11&px=87&pp=LSEtRW5hKzdxbTNnUHhvZWtvaXBsQTN2cnNzZXFOZldmUVk1dWVtZ29RSW1QSk9CL0JmL0lvbUNnPT0=&rdesc=LSEtN1hkTzR2TGF6OURNZStJZDBmNU9jdGtPWklORGpFY1orZkY5VXRQeno5cz0=",
+                "BuildingId": 81933,
+                "CompanyId": 7823,
+                "CurrencyCode": "SEK",
+                "DirectSale": false,
+                "Rooms": [
+                    {
+                        "Amount": 1,
+                        "HashCode": -947632424,
+                        "MaxOccupancy": 2,
+                        "RoomType": "Dubbel standard"
+                    }
+                ],
+                "TotalPrice": 1018
+            },
+            {
+                "AcqLodgingId": 4520205,
+                "BookingUri": "http://www.booking.com/hotel/fr/antin-trinite.html?aid=305228&checkin=2016-12-20&checkout=2016-12-21&lang=sv&selected_currency=SEK",
+                "BuildingId": 81933,
+                "CompanyId": 2742,
+                "CurrencyCode": "SEK",
+                "DirectSale": false,
+                "OriginalCurrencyCode": "EUR",
+                "OriginalTotalPrice": 180.0,
+                "OriginalTotalPriceWithoutDiscount": 180.0,
+                "PaymentOption": "CreditCard",
+                "Rooms": [
+                    {
+                        "Amount": 2,
+                        "BookingCurrency": "EUR",
+                        "BookingPrice": 90.0,
+                        "DepositRequired": true,
+                        "ExtIdentifier": "25664604_94368690_0_2",
+                        "ExtLodgingUnitId": "25664604",
+                        "HashCode": -928670430,
+                        "LocalizedBookingPrice": 874,
+                        "MaxOccupancy": 1,
+                        "Refundable": false,
+                        "RoomType": "Rum Standard",
+                        "RoomsAvailable": 2
+                    }
+                ],
+                "TotalPrice": 1748,
+                "TotalPriceWithoutDiscount": 1748
+            },
+            {
+                "AcqLodgingId": 4520205,
+                "BookingUri": "http://www.booking.com/hotel/fr/antin-trinite.html?aid=305228&checkin=2016-12-20&checkout=2016-12-21&lang=sv&selected_currency=SEK",
+                "BuildingId": 81933,
+                "CompanyId": 2742,
+                "CurrencyCode": "SEK",
+                "DirectSale": false,
+                "OriginalCurrencyCode": "EUR",
+                "OriginalTotalPrice": 123.0,
+                "OriginalTotalPriceWithoutDiscount": 123.0,
+                "PaymentOption": "CreditCard",
+                "Rooms": [
+                    {
+                        "Amount": 1,
+                        "BookingCurrency": "EUR",
+                        "BookingPrice": 123.0,
+                        "DepositRequired": true,
+                        "ExtIdentifier": "25664601_94368690_0_1",
+                        "ExtLodgingUnitId": "25664601",
+                        "HashCode": -1798595564,
+                        "LocalizedBookingPrice": 1195,
+                        "MaxOccupancy": 2,
+                        "Meal": {
+                            "Name": "Frukost"
+                        },
+                        "Refundable": false,
+                        "RoomType": "Rum Standard Plus",
+                        "RoomsAvailable": 2
+                    }
+                ],
+                "TotalPrice": 1195,
+                "TotalPriceWithoutDiscount": 1195
+            },
+            {
+                "AcqLodgingId": 5539692,
+                "BookingUri": "http://ad.zanox.com/ppc/?27330887C163593503T&ULP=[[https%253A%252F%252Fapi.sembo.se%252FRedirectToSearchResult.ashx%253FAgencyId%253D40001%2526ReservationToken%253DeyJwYXgiOiJycHAiLCJmZCI6IjIwMTYtMTItMjAiLCJ0ZCI6IjIwMTYtMTItMjEiLCJoaWQiOnsiaWQiOiIxNzg2NyIsInBpZCI6ImQ4YjIxNzBjLWM4NjUtNDM4ZC1iZDhkLWNhZmM5MTliMTA4YyJ9LCJoYyI6IkYtSDM3NjY3IiwibnJmIjpmYWxzZSwicHAiOmZhbHNlLCJycSI6ZmFsc2UsIm9jIjpudWxsLCJyb29tcyI6W3sicmlkIjoiQ0cgQkFSIFJPLVNJTVBMRS1EQkwtRTEwLVNULVJPLUUxMCIsInBheCI6InJwcCIsInByIjp7ImFtIjoxMzc4LjAwMDAwLCJjdXIiOiJTRUsifSwic3ByIjp7ImFtIjoxMDkuNDMwLCJjdXIiOiJFVVIifX1dfQ..%2526utm_medium%253DHotellMeta%2526utm_source%253DReseguiden]]",
+                "BuildingId": 81933,
+                "CompanyId": 1153,
+                "CurrencyCode": "SEK",
+                "DirectSale": false,
+                "Rooms": [
+                    {
+                        "Amount": 1,
+                        "HashCode": -1157074021,
+                        "RoomType": "Dubbelrum standard, Inga måltider"
+                    }
+                ],
+                "TotalPrice": 1378,
+                "TotalPriceWithoutDiscount": 1378
+            },
+            {
+                "AcqLodgingId": 4520205,
+                "BookingUri": "http://www.booking.com/hotel/fr/antin-trinite.html?aid=305228&checkin=2016-12-20&checkout=2016-12-21&lang=sv&selected_currency=SEK",
+                "BuildingId": 81933,
+                "CompanyId": 2742,
+                "CurrencyCode": "SEK",
+                "DirectSale": false,
+                "OriginalCurrencyCode": "EUR",
+                "OriginalTotalPrice": 204.0,
+                "OriginalTotalPriceWithoutDiscount": 204.0,
+                "PaymentOption": "CreditCard",
+                "Rooms": [
+                    {
+                        "Amount": 2,
+                        "BookingCurrency": "EUR",
+                        "BookingPrice": 102.0,
+                        "DepositRequired": true,
+                        "ExtIdentifier": "25664604_94368690_0_1",
+                        "ExtLodgingUnitId": "25664604",
+                        "HashCode": -1129532776,
+                        "LocalizedBookingPrice": 991,
+                        "MaxOccupancy": 1,
+                        "Meal": {
+                            "Name": "Frukost"
+                        },
+                        "Refundable": false,
+                        "RoomType": "Rum Standard",
+                        "RoomsAvailable": 2
+                    }
+                ],
+                "TotalPrice": 1981,
+                "TotalPriceWithoutDiscount": 1981
+            },
+            {
+                "AcqLodgingId": 8454554,
+                "BookingUri": "http://sv.hotels.com/PPCHotelDetails?hotelid=129870&view=prices&pos=HCOM_SE&locale=sv_SE&arrivalDate=20%2F12%2F2016&departureDate=21%2F12%2F2016&numberOfRooms=1&adultsPerRoom=2&rffrid=mdp.hcom.se.007.158.02",
+                "BuildingId": 81933,
+                "CompanyId": 2390,
+                "CurrencyCode": "SEK",
+                "DirectSale": false,
+                "Rooms": [
+                    {
+                        "Amount": 1,
+                        "HashCode": -1532385751,
+                        "Refundable": false,
+                        "RoomType": "Standardrum"
+                    }
+                ],
+                "TotalPrice": 1030
+            },
+            {
+                "AcqLodgingId": 4520205,
+                "BookingUri": "http://www.booking.com/hotel/fr/antin-trinite.html?aid=305228&checkin=2016-12-20&checkout=2016-12-21&lang=sv&selected_currency=SEK",
+                "BuildingId": 81933,
+                "CompanyId": 2742,
+                "CurrencyCode": "SEK",
+                "DirectSale": false,
+                "OriginalCurrencyCode": "EUR",
+                "OriginalTotalPrice": 110.0,
+                "OriginalTotalPriceWithoutDiscount": 110.0,
+                "PaymentOption": "CreditCard",
+                "Rooms": [
+                    {
+                        "Amount": 1,
+                        "BookingCurrency": "EUR",
+                        "BookingPrice": 110.0,
+                        "DepositRequired": true,
+                        "ExtIdentifier": "25664602_94368690_0_2",
+                        "ExtLodgingUnitId": "25664602",
+                        "HashCode": 1904173174,
+                        "LocalizedBookingPrice": 1068,
+                        "MaxOccupancy": 2,
+                        "Refundable": false,
+                        "RoomType": "Rum Superior",
+                        "RoomsAvailable": 2
+                    }
+                ],
+                "TotalPrice": 1068,
+                "TotalPriceWithoutDiscount": 1068
+            }
+        ]
+    },
+    "Search": {
+        "Adults": 2,
+        "BuildingId": 81933,
+        "ChildAges": [],
+        "DateFrom": "2016-12-20",
+        "DateTo": "2016-12-21"
+    }
+}

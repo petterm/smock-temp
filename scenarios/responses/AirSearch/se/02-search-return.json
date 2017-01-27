@@ -1,0 +1,347 @@
+{
+    "Companies": [
+        {
+            "CheapestDirectPrice": 766,
+            "CheapestPrice": 766,
+            "CompanyId": 1153,
+            "Meta": {
+                "LogoExtension": "png",
+                "LogoPath": "/files/83/rg_2871983",
+                "MaxChildAge": 12,
+                "MaxInfantAge": 2,
+                "Name": "Sembo"
+            },
+            "Prices": 150
+        },
+        {
+            "CheapestDirectPrice": 1845,
+            "CheapestPrice": 1432,
+            "CompanyId": 8194,
+            "Meta": {
+                "LogoExtension": "png",
+                "LogoPath": "/files/83/rg_10199983",
+                "MaxChildAge": 12,
+                "MaxInfantAge": 2,
+                "Name": "Tripsta"
+            },
+            "Prices": 39
+        },
+        {
+            "CompanyId": 3,
+            "Meta": {
+                "LogoExtension": "png",
+                "LogoPath": "/files/63/rg_2676363",
+                "MaxChildAge": 12,
+                "MaxInfantAge": 2,
+                "Name": "Ving"
+            },
+            "Prices": -1
+        },
+        {
+            "CheapestDirectPrice": 1736,
+            "CheapestPrice": 1518,
+            "CompanyId": 2563,
+            "Meta": {
+                "LogoExtension": "png",
+                "LogoPath": "/files/19/rg_2991919",
+                "MaxChildAge": 12,
+                "MaxInfantAge": 2,
+                "Name": "Solfaktor"
+            },
+            "Prices": 161
+        },
+        {
+            "CompanyId": 6,
+            "Meta": {
+                "LogoExtension": "gif",
+                "LogoPath": "/files/79/rg_10392279",
+                "MaxChildAge": 12,
+                "MaxInfantAge": 2,
+                "Name": "Apollo"
+            },
+            "Prices": -1
+        },
+        {
+            "CheapestDirectPrice": 421,
+            "CheapestPrice": 421,
+            "CompanyId": 2438,
+            "Meta": {
+                "LogoExtension": "gif",
+                "LogoPath": "/files/90/rg_834790",
+                "MaxChildAge": 12,
+                "MaxInfantAge": 2,
+                "Name": "Travellink"
+            },
+            "Prices": 963
+        },
+        {
+            "CheapestDirectPrice": 767,
+            "CheapestPrice": 767,
+            "CompanyId": 1095,
+            "Meta": {
+                "LogoExtension": "gif",
+                "LogoPath": "/files/20/rg_26620",
+                "MaxChildAge": 12,
+                "MaxInfantAge": 2,
+                "Name": "Resia"
+            },
+            "Prices": 102
+        },
+        {
+            "CheapestDirectPrice": 512,
+            "CheapestPrice": 512,
+            "CompanyId": 7306,
+            "Meta": {
+                "LogoExtension": "jpg",
+                "LogoPath": "/files/5/rg_1182105",
+                "MaxChildAge": 12,
+                "MaxInfantAge": 2,
+                "Name": "Bravofly"
+            },
+            "Prices": 200
+        },
+        {
+            "CheapestDirectPrice": 626,
+            "CheapestPrice": 626,
+            "CompanyId": 6220,
+            "Meta": {
+                "LogoExtension": "jpg",
+                "LogoPath": "/files/57/rg_834657",
+                "MaxChildAge": 18,
+                "MaxInfantAge": 2,
+                "Name": "Budjet"
+            },
+            "Prices": 199
+        },
+        {
+            "CheapestDirectPrice": 741,
+            "CheapestPrice": 741,
+            "CompanyId": 1102,
+            "Meta": {
+                "LogoExtension": "jpg",
+                "LogoPath": "/files/39/rg_2345039",
+                "MaxChildAge": 12,
+                "MaxInfantAge": 2,
+                "Name": "Ticket"
+            },
+            "Prices": 408
+        },
+        {
+            "CompanyId": 2447,
+            "Meta": {
+                "LogoExtension": "jpg",
+                "LogoPath": "/files/49/rg_1625549",
+                "Name": "Air France"
+            },
+            "Prices": 0
+        },
+        {
+            "CompanyId": 7511,
+            "Meta": {
+                "LogoExtension": "png",
+                "LogoPath": "/files/57/rg_1424357",
+                "MaxChildAge": 12,
+                "MaxInfantAge": 2,
+                "Name": "KILROY"
+            },
+            "Prices": -1
+        },
+        {
+            "CheapestDirectPrice": 312,
+            "CheapestPrice": 312,
+            "CompanyId": 2776,
+            "Meta": {
+                "LogoExtension": "jpg",
+                "LogoPath": "/files/15/rg_721015",
+                "MaxChildAge": 18,
+                "MaxInfantAge": 2,
+                "Name": "Supersavertravel"
+            },
+            "Prices": 199
+        },
+        {
+            "CheapestDirectPrice": 312,
+            "CheapestPrice": 312,
+            "CompanyId": 4828,
+            "Meta": {
+                "LogoExtension": "gif",
+                "LogoPath": "/files/49/rg_1207549",
+                "MaxChildAge": 18,
+                "MaxInfantAge": 2,
+                "Name": "Travelstart"
+            },
+            "Prices": 199
+        },
+        {
+            "CheapestDirectPrice": 842,
+            "CheapestPrice": 842,
+            "CompanyId": 2525,
+            "Meta": {
+                "LogoExtension": "gif",
+                "LogoPath": "/files/26/rg_1372526",
+                "MaxChildAge": 12,
+                "MaxInfantAge": 2,
+                "Name": "Flygstolen.se"
+            },
+            "Prices": 146
+        },
+        {
+            "CheapestDirectPrice": 292,
+            "CheapestPrice": 292,
+            "CompanyId": 1125,
+            "Meta": {
+                "LogoExtension": "gif",
+                "LogoPath": "/files/62/rg_79162",
+                "MaxChildAge": 18,
+                "MaxInfantAge": 2,
+                "Name": "Seat 24"
+            },
+            "Prices": 199
+        },
+        {
+            "CheapestDirectPrice": 614,
+            "CheapestPrice": 614,
+            "CompanyId": 6503,
+            "Meta": {
+                "LogoExtension": "jpg",
+                "LogoPath": "/files/4/rg_1462304",
+                "MaxChildAge": 12,
+                "MaxInfantAge": 2,
+                "Name": "Norwegian"
+            },
+            "Prices": 49
+        },
+        {
+            "CompanyId": 4265,
+            "Meta": {
+                "LogoExtension": "gif",
+                "LogoPath": "/files/54/rg_1441554",
+                "Name": "KLM"
+            },
+            "Prices": 0
+        },
+        {
+            "CheapestDirectPrice": 312,
+            "CheapestPrice": 312,
+            "CompanyId": 2473,
+            "Meta": {
+                "LogoExtension": "jpg",
+                "LogoPath": "/files/68/rg_853268",
+                "MaxChildAge": 18,
+                "MaxInfantAge": 2,
+                "Name": "TravelPartner"
+            },
+            "Prices": 199
+        },
+        {
+            "CheapestPrice": 4137,
+            "CompanyId": 6124,
+            "Meta": {
+                "LogoExtension": "jpg",
+                "LogoPath": "/files/92/rg_7242792",
+                "MaxChildAge": 12,
+                "MaxInfantAge": 2,
+                "Name": "Air Berlin"
+            },
+            "Prices": 24
+        },
+        {
+            "CheapestDirectPrice": 421,
+            "CheapestPrice": 421,
+            "CompanyId": 7534,
+            "Meta": {
+                "LogoExtension": "jpg",
+                "LogoPath": "/files/31/rg_1385131",
+                "MaxChildAge": 12,
+                "MaxInfantAge": 2,
+                "Name": "Opodo"
+            },
+            "Prices": 967
+        },
+        {
+            "CheapestDirectPrice": 631,
+            "CheapestPrice": 631,
+            "CompanyId": 5616,
+            "Meta": {
+                "LogoExtension": "png",
+                "LogoPath": "/files/74/rg_10527374",
+                "MaxChildAge": 12,
+                "MaxInfantAge": 2,
+                "Name": "ReseCentrum Gruppen"
+            },
+            "Prices": 199
+        },
+        {
+            "CompanyId": 4278,
+            "Meta": {
+                "LogoExtension": "png",
+                "LogoPath": "/files/9/rg_10670509",
+                "MaxChildAge": 12,
+                "MaxInfantAge": 2,
+                "Name": "Qatar Airways"
+            },
+            "Prices": 0
+        },
+        {
+            "CompanyId": 4281,
+            "Meta": {
+                "LogoExtension": "gif",
+                "LogoPath": "/files/52/rg_1207552",
+                "MaxChildAge": 12,
+                "MaxInfantAge": 2,
+                "Name": "SAS"
+            },
+            "Prices": -1
+        },
+        {
+            "CheapestDirectPrice": 1999,
+            "CheapestPrice": 1999,
+            "CompanyId": 2812,
+            "Meta": {
+                "LogoExtension": "gif",
+                "LogoPath": "/files/28/rg_3005428",
+                "MaxChildAge": 12,
+                "MaxInfantAge": 2,
+                "Name": "SkyTours"
+            },
+            "Prices": 14
+        },
+        {
+            "CompanyId": 2687,
+            "Meta": {
+                "LogoExtension": "png",
+                "LogoPath": "/files/99/rg_1116699",
+                "Name": "Airtours"
+            },
+            "Prices": 0
+        },
+        {
+            "CheapestDirectPrice": 409,
+            "CheapestPrice": 409,
+            "CompanyId": 8191,
+            "Meta": {
+                "LogoExtension": "jpg",
+                "LogoPath": "/files/2/rg_10841502",
+                "MaxChildAge": 12,
+                "MaxInfantAge": 2,
+                "Name": "Kiwi.com"
+            },
+            "Prices": 27
+        },
+        {
+            "CheapestDirectPrice": 674,
+            "CheapestPrice": 674,
+            "CompanyId": 1087,
+            "Meta": {
+                "LogoExtension": "jpg",
+                "LogoPath": "/files/17/rg_721017",
+                "MaxChildAge": 18,
+                "MaxInfantAge": 2,
+                "Name": "Flygvaruhuset.se"
+            },
+            "Prices": 199
+        }
+    ],
+    "IsDone": false,
+    "uuid": "uuidAirSearchseReturn"
+}

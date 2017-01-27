@@ -1,0 +1,19 @@
+{
+    "Search": {
+        "Adults": 1,
+        "ChildAges": [],
+        "Legs": [
+            {
+                "Date": "2017-01-09",
+                "DepartureCity": "GOT",
+                "DestinationCity": "LON"
+            },
+            {
+                "Date": "2017-01-12",
+                "DepartureCity": "LON",
+                "DestinationCity": "GOT"
+            }
+        ]
+    },
+    "Success": true
+}

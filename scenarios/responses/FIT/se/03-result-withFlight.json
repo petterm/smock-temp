@@ -1,0 +1,516 @@
+{
+    "Response": {
+        "Combinations": [
+            {
+                "AirPrices": [
+                    61989430,
+                    782464332,
+                    890151138,
+                    946817612,
+                    587279388
+                ],
+                "CompanyId": 7638,
+                "CurrencyCode": "SEK",
+                "DirectSale": true,
+                "LodgingPrice": {
+                    "BookingParameters": "{\"productToken\":\"GZP000WP\",\"searchToken\":\"6ef9c60a-0299-47bc-a533-9a5d10ea7f22\"}",
+                    "CompanyId": 7638,
+                    "CurrencyCode": "SEK",
+                    "DirectSale": true,
+                    "LodgingId": 1841817,
+                    "Rooms": [
+                        {
+                            "Adults": 2,
+                            "BookingParameters": "{\"ratePlanToken\":\"GZP000WPSYYYYYY\",\"supplementToken\":\"jgAAAB+LCAAAAAAABAAVjLEOgjAQQD/GH+ColTJ6oR1IDsO1PRpXEwbroIMBGj5eHF7y8obH8B6puy4CGCZ53f/MFmJUK07CZoyHA3vKkI7mgwyWOqRY0M3W9bfMPm08xwyBj09wtLC06MXkVNltLNiTM5+klnUojy890bCI30+7bnSrWq2aWuvzxdQVmB8S9zJ4jgAAAA\\u003d\\u003d\"}",
+                            "Children": 0,
+                            "ExtIdentifier": "_0",
+                            "HashCode": -1022387112,
+                            "Infants": 0,
+                            "MaxOccupancy": 2,
+                            "Meals": [
+                                -1422929292
+                            ],
+                            "RoomType": "Standardrum"
+                        }
+                    ],
+                    "TotalPrice": 0
+                },
+                "TotalPrice": 5500
+            }
+        ],
+        "Meta": {
+            "AirPrices": {
+                "61989430": {
+                    "BookingParameters": "{\"productToken\":\"20cb2f8b-a77b-4db1-b0b1-aec0d03cf04b\",\"searchToken\":\"2544eb7b-15bb-4075-9258-15a40affe30c\"}",
+                    "CompanyId": 7638,
+                    "CurrencyCode": "SEK",
+                    "DirectSale": true,
+                    "IsAirline": false,
+                    "Journeys": [
+                        {
+                            "ArrivalTimestamp": "2017-03-27T22:30:00",
+                            "DepartureLocation": "ARN",
+                            "DepartureTimestamp": "2017-03-27T13:55:00",
+                            "DestinationLocation": "GZP",
+                            "FlightTime": 455,
+                            "JourneyNumber": 1,
+                            "Legs": [
+                                {
+                                    "ArrivalTimestamp": "2017-03-27T18:30:00",
+                                    "Carrier": "PC",
+                                    "DepartureLocation": "ARN",
+                                    "DepartureTimestamp": "2017-03-27T13:55:00",
+                                    "DestinationLocation": "SAW",
+                                    "FlightTime": 215,
+                                    "HasTechnicalStop": false,
+                                    "HashCode": "-1107950756",
+                                    "MarketingCarrierCode": "PC",
+                                    "MarketingFlightDestignator": "PC1280",
+                                    "OperatingFlightDestignator": "PC1280"
+                                },
+                                {
+                                    "ArrivalTimestamp": "2017-03-27T22:30:00",
+                                    "Carrier": "PC",
+                                    "DepartureLocation": "SAW",
+                                    "DepartureTimestamp": "2017-03-27T20:50:00",
+                                    "DestinationLocation": "GZP",
+                                    "FlightTime": 100,
+                                    "HasTechnicalStop": false,
+                                    "HashCode": "-1689657447",
+                                    "MarketingCarrierCode": "PC",
+                                    "MarketingFlightDestignator": "PC2062",
+                                    "OperatingFlightDestignator": "PC2062"
+                                }
+                            ],
+                            "MinimumServices": "[]",
+                            "Via": "SAW"
+                        },
+                        {
+                            "ArrivalTimestamp": "2017-04-03T13:15:00",
+                            "DepartureLocation": "GZP",
+                            "DepartureTimestamp": "2017-04-03T07:45:00",
+                            "DestinationLocation": "ARN",
+                            "FlightTime": 390,
+                            "JourneyNumber": 2,
+                            "Legs": [
+                                {
+                                    "ArrivalTimestamp": "2017-04-03T09:10:00",
+                                    "Carrier": "PC",
+                                    "DepartureLocation": "GZP",
+                                    "DepartureTimestamp": "2017-04-03T07:45:00",
+                                    "DestinationLocation": "SAW",
+                                    "FlightTime": 85,
+                                    "HasTechnicalStop": false,
+                                    "HashCode": "-1394330818",
+                                    "MarketingCarrierCode": "PC",
+                                    "MarketingFlightDestignator": "PC2061",
+                                    "OperatingFlightDestignator": "PC2061"
+                                },
+                                {
+                                    "ArrivalTimestamp": "2017-04-03T13:15:00",
+                                    "Carrier": "PC",
+                                    "DepartureLocation": "SAW",
+                                    "DepartureTimestamp": "2017-04-03T10:25:00",
+                                    "DestinationLocation": "ARN",
+                                    "FlightTime": 230,
+                                    "HasTechnicalStop": false,
+                                    "HashCode": "1931320985",
+                                    "MarketingCarrierCode": "PC",
+                                    "MarketingFlightDestignator": "PC1279",
+                                    "OperatingFlightDestignator": "PC1279"
+                                }
+                            ],
+                            "MinimumServices": "[]",
+                            "Via": "SAW"
+                        }
+                    ],
+                    "TotalPrice": 0
+                },
+                "782464332": {
+                    "BookingParameters": "{\"productToken\":\"2c4f8d69-2d6b-4f5f-847f-4b8d234042d4\",\"searchToken\":\"2544eb7b-15bb-4075-9258-15a40affe30c\"}",
+                    "CompanyId": 7638,
+                    "CurrencyCode": "SEK",
+                    "DirectSale": true,
+                    "IsAirline": false,
+                    "Journeys": [
+                        {
+                            "ArrivalTimestamp": "2017-03-27T18:50:00",
+                            "DepartureLocation": "ARN",
+                            "DepartureTimestamp": "2017-03-27T11:05:00",
+                            "DestinationLocation": "GZP",
+                            "FlightTime": 405,
+                            "JourneyNumber": 1,
+                            "Legs": [
+                                {
+                                    "ArrivalTimestamp": "2017-03-27T15:35:00",
+                                    "Carrier": "TK",
+                                    "DepartureLocation": "ARN",
+                                    "DepartureTimestamp": "2017-03-27T11:05:00",
+                                    "DestinationLocation": "IST",
+                                    "FlightTime": 210,
+                                    "HasTechnicalStop": false,
+                                    "HashCode": "1666945301",
+                                    "MarketingCarrierCode": "TK",
+                                    "MarketingFlightDestignator": "TK1794",
+                                    "OperatingFlightDestignator": "TK1794"
+                                },
+                                {
+                                    "ArrivalTimestamp": "2017-03-27T18:50:00",
+                                    "Carrier": "TK",
+                                    "DepartureLocation": "IST",
+                                    "DepartureTimestamp": "2017-03-27T17:25:00",
+                                    "DestinationLocation": "GZP",
+                                    "FlightTime": 85,
+                                    "HasTechnicalStop": false,
+                                    "HashCode": "-1583140548",
+                                    "MarketingCarrierCode": "TK",
+                                    "MarketingFlightDestignator": "TK2594",
+                                    "OperatingFlightDestignator": "TK2594"
+                                }
+                            ],
+                            "MinimumServices": "[]",
+                            "Via": "IST"
+                        },
+                        {
+                            "ArrivalTimestamp": "2017-04-03T22:00:00",
+                            "DepartureLocation": "GZP",
+                            "DepartureTimestamp": "2017-04-03T16:10:00",
+                            "DestinationLocation": "ARN",
+                            "FlightTime": 410,
+                            "JourneyNumber": 2,
+                            "Legs": [
+                                {
+                                    "ArrivalTimestamp": "2017-04-03T17:40:00",
+                                    "Carrier": "TK",
+                                    "DepartureLocation": "GZP",
+                                    "DepartureTimestamp": "2017-04-03T16:10:00",
+                                    "DestinationLocation": "IST",
+                                    "FlightTime": 90,
+                                    "HasTechnicalStop": false,
+                                    "HashCode": "1025084608",
+                                    "MarketingCarrierCode": "TK",
+                                    "MarketingFlightDestignator": "TK2593",
+                                    "OperatingFlightDestignator": "TK2593"
+                                },
+                                {
+                                    "ArrivalTimestamp": "2017-04-03T22:00:00",
+                                    "Carrier": "TK",
+                                    "DepartureLocation": "IST",
+                                    "DepartureTimestamp": "2017-04-03T19:30:00",
+                                    "DestinationLocation": "ARN",
+                                    "FlightTime": 210,
+                                    "HasTechnicalStop": false,
+                                    "HashCode": "-1530045779",
+                                    "MarketingCarrierCode": "TK",
+                                    "MarketingFlightDestignator": "TK1791",
+                                    "OperatingFlightDestignator": "TK1791"
+                                }
+                            ],
+                            "MinimumServices": "[{\"type\":\"Luggage\",\"quantity\":1,\"perPassenger\":true,\"maxWeight\":{\"unitOfMeasure\":\"kg\",\"value\":30.0}}]",
+                            "Via": "IST"
+                        }
+                    ],
+                    "TotalPrice": 2000
+                },
+                "890151138": {
+                    "BookingParameters": "{\"productToken\":\"e9537d19-11e7-40ff-98c8-b4cbb8f74958\",\"searchToken\":\"2544eb7b-15bb-4075-9258-15a40affe30c\"}",
+                    "CompanyId": 7638,
+                    "CurrencyCode": "SEK",
+                    "DirectSale": true,
+                    "IsAirline": false,
+                    "Journeys": [
+                        {
+                            "ArrivalTimestamp": "2017-03-27T18:50:00",
+                            "DepartureLocation": "ARN",
+                            "DepartureTimestamp": "2017-03-27T11:05:00",
+                            "DestinationLocation": "GZP",
+                            "FlightTime": 405,
+                            "JourneyNumber": 1,
+                            "Legs": [
+                                {
+                                    "ArrivalTimestamp": "2017-03-27T15:35:00",
+                                    "Carrier": "TK",
+                                    "DepartureLocation": "ARN",
+                                    "DepartureTimestamp": "2017-03-27T11:05:00",
+                                    "DestinationLocation": "IST",
+                                    "FlightTime": 210,
+                                    "HasTechnicalStop": false,
+                                    "HashCode": "1666945301",
+                                    "MarketingCarrierCode": "TK",
+                                    "MarketingFlightDestignator": "TK1794",
+                                    "OperatingFlightDestignator": "TK1794"
+                                },
+                                {
+                                    "ArrivalTimestamp": "2017-03-27T18:50:00",
+                                    "Carrier": "TK",
+                                    "DepartureLocation": "IST",
+                                    "DepartureTimestamp": "2017-03-27T17:25:00",
+                                    "DestinationLocation": "GZP",
+                                    "FlightTime": 85,
+                                    "HasTechnicalStop": false,
+                                    "HashCode": "-1583140548",
+                                    "MarketingCarrierCode": "TK",
+                                    "MarketingFlightDestignator": "TK2594",
+                                    "OperatingFlightDestignator": "TK2594"
+                                }
+                            ],
+                            "MinimumServices": "[{\"type\":\"Luggage\",\"quantity\":1,\"perPassenger\":true,\"maxWeight\":{\"unitOfMeasure\":\"kg\",\"value\":30.0}}]",
+                            "Via": "IST"
+                        },
+                        {
+                            "ArrivalTimestamp": "2017-04-03T09:35:00",
+                            "DepartureLocation": "GZP",
+                            "DepartureTimestamp": "2017-04-03T03:10:00",
+                            "DestinationLocation": "ARN",
+                            "FlightTime": 445,
+                            "JourneyNumber": 2,
+                            "Legs": [
+                                {
+                                    "ArrivalTimestamp": "2017-04-03T04:30:00",
+                                    "Carrier": "TK",
+                                    "DepartureLocation": "GZP",
+                                    "DepartureTimestamp": "2017-04-03T03:10:00",
+                                    "DestinationLocation": "IST",
+                                    "FlightTime": 80,
+                                    "HasTechnicalStop": false,
+                                    "HashCode": "-1100611497",
+                                    "MarketingCarrierCode": "TK",
+                                    "MarketingFlightDestignator": "TK2597",
+                                    "OperatingFlightDestignator": "TK2597"
+                                },
+                                {
+                                    "ArrivalTimestamp": "2017-04-03T09:35:00",
+                                    "Carrier": "TK",
+                                    "DepartureLocation": "IST",
+                                    "DepartureTimestamp": "2017-04-03T07:05:00",
+                                    "DestinationLocation": "ARN",
+                                    "FlightTime": 210,
+                                    "HasTechnicalStop": false,
+                                    "HashCode": "-1512771491",
+                                    "MarketingCarrierCode": "TK",
+                                    "MarketingFlightDestignator": "TK1793",
+                                    "OperatingFlightDestignator": "TK1793"
+                                }
+                            ],
+                            "MinimumServices": "[{\"type\":\"Luggage\",\"quantity\":1,\"perPassenger\":true,\"maxWeight\":{\"unitOfMeasure\":\"kg\",\"value\":30.0}}]",
+                            "Via": "IST"
+                        }
+                    ],
+                    "TotalPrice": 3000
+                },
+                "946817612": {
+                    "BookingParameters": "{\"productToken\":\"0eef2087-3c2b-47a3-a05d-f01a476aab9f\",\"searchToken\":\"2544eb7b-15bb-4075-9258-15a40affe30c\"}",
+                    "CompanyId": 7638,
+                    "CurrencyCode": "SEK",
+                    "DirectSale": true,
+                    "IsAirline": false,
+                    "Journeys": [
+                        {
+                            "ArrivalTimestamp": "2017-03-27T22:30:00",
+                            "DepartureLocation": "ARN",
+                            "DepartureTimestamp": "2017-03-27T13:55:00",
+                            "DestinationLocation": "GZP",
+                            "FlightTime": 455,
+                            "JourneyNumber": 1,
+                            "Legs": [
+                                {
+                                    "ArrivalTimestamp": "2017-03-27T18:30:00",
+                                    "Carrier": "PC",
+                                    "DepartureLocation": "ARN",
+                                    "DepartureTimestamp": "2017-03-27T13:55:00",
+                                    "DestinationLocation": "SAW",
+                                    "FlightTime": 215,
+                                    "HasTechnicalStop": false,
+                                    "HashCode": "-1107950756",
+                                    "MarketingCarrierCode": "PC",
+                                    "MarketingFlightDestignator": "PC1280",
+                                    "OperatingFlightDestignator": "PC1280"
+                                },
+                                {
+                                    "ArrivalTimestamp": "2017-03-27T22:30:00",
+                                    "Carrier": "PC",
+                                    "DepartureLocation": "SAW",
+                                    "DepartureTimestamp": "2017-03-27T20:50:00",
+                                    "DestinationLocation": "GZP",
+                                    "FlightTime": 100,
+                                    "HasTechnicalStop": false,
+                                    "HashCode": "-1689657447",
+                                    "MarketingCarrierCode": "PC",
+                                    "MarketingFlightDestignator": "PC2062",
+                                    "OperatingFlightDestignator": "PC2062"
+                                }
+                            ],
+                            "MinimumServices": "[{\"type\":\"Luggage\",\"quantity\":2,\"perPassenger\":true}]",
+                            "Via": "SAW"
+                        },
+                        {
+                            "ArrivalTimestamp": "2017-04-03T15:55:00",
+                            "DepartureLocation": "GZP",
+                            "DepartureTimestamp": "2017-04-03T09:35:00",
+                            "DestinationLocation": "ARN",
+                            "FlightTime": 440,
+                            "JourneyNumber": 2,
+                            "Legs": [
+                                {
+                                    "ArrivalTimestamp": "2017-04-03T13:20:00",
+                                    "Carrier": "AY",
+                                    "DepartureLocation": "GZP",
+                                    "DepartureTimestamp": "2017-04-03T09:35:00",
+                                    "DestinationLocation": "HEL",
+                                    "FlightTime": 225,
+                                    "HasTechnicalStop": false,
+                                    "HashCode": "-2034006862",
+                                    "MarketingCarrierCode": "AY",
+                                    "MarketingFlightDestignator": "AY800",
+                                    "OperatingFlightDestignator": "AY800"
+                                },
+                                {
+                                    "ArrivalTimestamp": "2017-04-03T15:55:00",
+                                    "Carrier": "AY",
+                                    "DepartureLocation": "HEL",
+                                    "DepartureTimestamp": "2017-04-03T16:00:00",
+                                    "DestinationLocation": "ARN",
+                                    "FlightTime": 55,
+                                    "HasTechnicalStop": false,
+                                    "HashCode": "-1705602366",
+                                    "MarketingCarrierCode": "AY",
+                                    "MarketingFlightDestignator": "AY637",
+                                    "OperatingFlightDestignator": "AY637"
+                                }
+                            ],
+                            "MinimumServices": "[{\"type\":\"Luggage\",\"quantity\":2,\"perPassenger\":true}]",
+                            "Via": "HEL"
+                        }
+                    ],
+                    "TotalPrice": 6000
+                },
+                "587279388": {
+                    "BookingParameters": "{\"productToken\":\"e9537d19-11e7-40ff-98c8-b4cbb8f74958\",\"searchToken\":\"2544eb7b-15bb-4075-9258-15a40affe30c\"}",
+                    "CompanyId": 7638,
+                    "CurrencyCode": "SEK",
+                    "DirectSale": true,
+                    "IsAirline": false,
+                    "Journeys": [
+                        {
+                            "ArrivalTimestamp": "2017-03-27T18:50:00",
+                            "DepartureLocation": "ARN",
+                            "DepartureTimestamp": "2017-03-27T11:05:00",
+                            "DestinationLocation": "GZP",
+                            "FlightTime": 405,
+                            "JourneyNumber": 1,
+                            "Legs": [
+                                {
+                                    "ArrivalTimestamp": "2017-03-27T15:35:00",
+                                    "Carrier": "TK",
+                                    "DepartureLocation": "ARN",
+                                    "DepartureTimestamp": "2017-03-27T11:05:00",
+                                    "DestinationLocation": "GZP",
+                                    "FlightTime": 210,
+                                    "HasTechnicalStop": false,
+                                    "HashCode": "1666945302",
+                                    "MarketingCarrierCode": "TK",
+                                    "MarketingFlightDestignator": "TK1795",
+                                    "OperatingFlightDestignator": "TK1795"
+                                }
+                            ],
+                            "MinimumServices": "[{\"type\":\"Luggage\",\"quantity\":1,\"perPassenger\":true,\"maxWeight\":{\"unitOfMeasure\":\"kg\",\"value\":30.0}}]",
+                            "Via": ""
+                        },
+                        {
+                            "ArrivalTimestamp": "2017-04-03T09:35:00",
+                            "DepartureLocation": "GZP",
+                            "DepartureTimestamp": "2017-04-03T03:10:00",
+                            "DestinationLocation": "ARN",
+                            "FlightTime": 445,
+                            "JourneyNumber": 2,
+                            "Legs": [
+                                {
+                                    "ArrivalTimestamp": "2017-04-03T04:30:00",
+                                    "Carrier": "TK",
+                                    "DepartureLocation": "GZP",
+                                    "DepartureTimestamp": "2017-04-03T03:10:00",
+                                    "DestinationLocation": "ARN",
+                                    "FlightTime": 80,
+                                    "HasTechnicalStop": false,
+                                    "HashCode": "-1100611498",
+                                    "MarketingCarrierCode": "TK",
+                                    "MarketingFlightDestignator": "TK2598",
+                                    "OperatingFlightDestignator": "TK2598"
+                                }
+                            ],
+                            "MinimumServices": "[{\"type\":\"Luggage\",\"quantity\":1,\"perPassenger\":true,\"maxWeight\":{\"unitOfMeasure\":\"kg\",\"value\":30.0}}]",
+                            "Via": "IST"
+                        }
+                    ],
+                    "TotalPrice": 5000
+                }
+            },
+            "Airline": {
+                "AY": {
+                    "LogoExtension": "png",
+                    "LogoPath": "/files/76/rg_8829676",
+                    "Name": "Finnair"
+                },
+                "PC": {
+                    "LogoExtension": "png",
+                    "LogoPath": "/files/38/rg_9575838",
+                    "Name": "Pegasus Airlines"
+                },
+                "TK": {
+                    "LogoExtension": "png",
+                    "LogoPath": "/files/7/rg_8829807",
+                    "Name": "Turkish Airlines"
+                }
+            },
+            "Airport": {
+                "ARN": {
+                    "Destination": "Stockholm",
+                    "DestinationId": 2673730,
+                    "Name": "Stockholm Arlanda Airport (ARN)"
+                },
+                "BMA": {
+                    "Destination": "Stockholm",
+                    "DestinationId": 2673730,
+                    "Name": "Stockholm-Bromma Airport (BMA)"
+                },
+                "GZP": {
+                    "Destination": "Gazipasa",
+                    "DestinationId": 314812,
+                    "Name": "Gazipaşa Airport (GZP)"
+                },
+                "HEL": {
+                    "Destination": "Helsingfors",
+                    "DestinationId": 658225,
+                    "Name": "Helsingfors-Vanda flygplats (HEL)"
+                },
+                "IST": {
+                    "Destination": "Istanbul",
+                    "DestinationId": 745044,
+                    "Name": "Istanbul Atatürk Airport (IST)"
+                },
+                "SAW": {
+                    "Destination": "Istanbul",
+                    "DestinationId": 745044,
+                    "Name": "Sabiha Gökçen International Airport (SAW)"
+                }
+            },
+            "Meal": {
+                "-1422929292": {
+                    "BookingParameters": "{\"boardToken\":\"QUk\\u003d\"}",
+                    "CurrencyCode": "SEK",
+                    "MealId": 6,
+                    "Name": "All Inclusive",
+                    "Price": 0.0
+                }
+            }
+        }
+    },
+    "Search": {
+        "Adults": 2,
+        "ChildAges": [],
+        "DateFrom": "2017-03-27",
+        "DateTo": "2017-04-03",
+        "LodgingId": ["rg_1841817"],
+        "Rooms": "2"
+    }
+}
